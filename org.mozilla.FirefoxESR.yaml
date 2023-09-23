@@ -90,7 +90,7 @@ modules:
     buildsystem: simple
     build-options:
       env:
-        VERSION: 102.15.0esr
+        VERSION: 102.15.1esr
     build-commands:
       - sed -i -e "s/Firefox/Firefox ESR/g" org.mozilla.firefox.appdata.xml.in
       - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" -e "s/org.mozilla.firefox/${FLATPAK_ID}/"
@@ -149,7 +149,7 @@ modules:
       - rm -f ${FLATPAK_DEST}/lib/firefox/update-settings.ini
     sources:
       - type: archive
-        url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.15.0esr/linux-x86_64/en-US/firefox-102.15.0esr.tar.bz2
+        url: https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.15.1esr/linux-x86_64/en-US/firefox-102.15.1esr.tar.bz2
         sha256: 3e4e69cfa812d776d82916208c7ce5cecdc2e7a6c6c6b4753f3ddff9c98e5e73
 #        x-checker-data:
 #          type: rotating-url
