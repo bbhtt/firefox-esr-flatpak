@@ -1,0 +1,9 @@
+include:
+  - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/flatpak.yml
+  - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/flatpak-updater-esr.yml
+# - https://gitlab.com/projects261/gitlab-ci-templates/-/raw/main/mozilla-langpacks-update.yml
+
+variables:
+  APP_ID: org.mozilla.FirefoxESR
+  FLATPAK_MODULE: firefox-esr
+  PRODUCT_TYPE: firefox-esr
