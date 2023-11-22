@@ -13,7 +13,6 @@ update () {
 	updrelease=$(sed "${relnum}!d" "$MANIFEST_PATH"|sed -n '{s|.*/firefox-\(.*\)\.tar.bz2|\1|p;q;}')
 	versionold=$(echo "$oldrelease"|head -c 11)
 	versionnew=$(echo "$updrelease"|head -c 11)
-	echo $versionnew
 	sed -i "${vernum}s/VERSION: $versionold/VERSION: $versionnew/g" "$MANIFEST_PATH"
 	wget -q https://download-installer.cdn.mozilla.net/pub/firefox/releases/"$updrelease"/SHA256SUMS
 	shanew=$(grep linux-x86_64/en-US/firefox-"$updrelease".tar.bz2 < SHA256SUMS|cut -d " " -f1)
