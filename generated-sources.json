@@ -1,668 +1,668 @@
 [
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ff.langpack.xpi",
-    "sha512": "104b55b09f7d791ad6d61c5c995332103da30b4d1063c6ca7963fcd1e061af0814b179939417a85e3f956cebadba02fb8b68be276ccc32a35b8f777786606494",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.rm.langpack.xpi",
+    "sha512": "617f694b4068d1b49a7fe6d718dcae4a49983e9e49f64edd46fef1206bf2cbf967ce5ad8520b8d22b1aa8af22dab9f3a5c2196621382bb9f0c72b4dd72351abc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ca-valencia.langpack.xpi",
-    "sha512": "937453301fcf4e5bda8c62dcee51c901ccd057afbdbf37e6810cb97c45a3d0c1884bf40e244a2d8b20f10af36fb075c8371d49d2359a687b7672d22a6dc80205",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.pt-BR.langpack.xpi",
+    "sha512": "669e521749165feeafaa86713107f843413d69c8708fcca1e15c1fb515952bd18de61a6cec064cd31a5372639e7e9da2b09cdb683a62a88bcc106238eb3cb2fc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ms.langpack.xpi",
-    "sha512": "7f4a84ea70fb45a7fde207b86f375868ee745271ba07efe16276275896726b77620147e103084335b133982dba7f8d6472585ab01b4563d1946eca4b04e03a41",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ia.langpack.xpi",
+    "sha512": "351bd189d38cb3065a7f29b513bc3729346e46d7dbc0d4c6696d0b6e93e4c45eed2a5d6e6eb3182c341ce5c33eba0d9ccca0a427fb9d2cc5490ccfcc35aa33b1",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.el.langpack.xpi",
-    "sha512": "93b696e46e555897ca63091125fa662da742a433cb38e0b69a43113672229bc591facb79e7e031e3f4847a1edcfd5c60308109131e0b86abe9f07bf287b10f97",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.kk.langpack.xpi",
+    "sha512": "82d829605e108f5efeca5231a87c0ac32e7531fc7c4343d864b50c6d0624ca5167708d7ec801bd53d9b4a589cc723c61cd4526aa6c7cc81e69c13ee08edb4e20",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.fur.langpack.xpi",
-    "sha512": "4d4ad55eeeed6c5650ebb9af0bb0264124b0f5e757020a07cc8de2b80281693698100a342bb87527172cfd77dac7abd74af20005d5db124e1f2676f0e2b30e2f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.lij.langpack.xpi",
+    "sha512": "ffab3c164dc4906cec9d34082e2b17258e7ee942112c89a846304538d77245de8b0854808e088e561ac8913147670edddda86d41795b37fd0b4554c47eeb6f7c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.te.langpack.xpi",
-    "sha512": "6a0cc926efeb02631dbba336c2e1ffa0084b540ebe348da41a1537dd9e06dab05216599af0047f6e0eaf31436af66ef57794b792782f1efb72d70f5d09d6ed58",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sk.langpack.xpi",
+    "sha512": "dd06f823e970a64676439ac806da8d8843498654756b4296c17298ae35d0b486d9646670b3fe132d7dff3f600a0a2470f4ee1644591a2785fc2c0108199278cb",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.tg.langpack.xpi",
-    "sha512": "59cbe3cb9ab190b384b3b4c8b8d5a810a3fdbc7e7ad1aa42bcbc9a7060947a908ac1b65afeae5b18eaafe8476fe8ec403f618b5ecfcc035b1d09e17de52acc35",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.es-ES.langpack.xpi",
+    "sha512": "caac32174d097dfdf143d81f35469ae3a34b797ff0062b90ed32aa2faea1effc11a07ec3a13f1599bc30e52ec1b7ab131fb6279d7b095fbb650b913836ce7334",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ia.langpack.xpi",
-    "sha512": "25a93b1cf835ec04da785b79738f31e6a39e7e5c18b5492d2d8a928e24990d88a9795a4ffebe3d481ae4c170344b1931e49a7f3d0e438e92323f5060ad19d55d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.cs.langpack.xpi",
+    "sha512": "b50ee384aa649092169c6ba293c0c6f9d3132cf03594fe471c57b02eaa4a68b0f104978968976c3cfd606a11657f523669c4ae8cbdd395789847e95ee663688d",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.cs.langpack.xpi",
-    "sha512": "38add147f2156733ad8cbf1904a3d4e1f0ac859f379a5d46c04c178f5c7362be334706bd2e7bcfa53d3862a4d1b19c7c6a33a1c0ae5d8eeb35da77d2e8d85823",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ar.langpack.xpi",
+    "sha512": "10a5ac4dc1b403ed4908c76c19834df0a0496b9a2c8a83b885635ec60344df3ef79a5e1d22029aa7566553d73e594f03f193aeef98bd71a3a1ee7e719da45559",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.lt.langpack.xpi",
-    "sha512": "1f366e6a51c3c29633f28ea4b88a6ba90e287fe9365b6f7a356666f819a29413d570965628e2d6e720408ec9cf1b1d74890dfb571e03f1d1ecfd7e8b3a7f5d83",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.bn.langpack.xpi",
+    "sha512": "00278f9d6cd75c71f0948ed09c76febdc5bb2df9acb4e41d1184336db4bbba895f56b71e5f68becddb645a5dff9ae03b9dcdfc2e1c5a3e38156fc3af36b828dc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.es-ES.langpack.xpi",
-    "sha512": "c653fcb3c47e7c8c882a3fc74d93c73eb8d51bde1025ff8e3fc1c2379c8c84536fbd19415c97a024b65850fa03b23629634d32383a99a59ce262352811409818",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.cy.langpack.xpi",
+    "sha512": "513c06931b84f87a46f338075e945f03f02f6c8ae72077d080711c1dce22bcf1126c7dc10f5b6724d6c00557d6da4d1567260c5893d0dc92d29e8a5c75e66bb4",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.szl.langpack.xpi",
-    "sha512": "a741bbfa28e317e1e8666e2489584097883192b718682445ecf1da8d0811697128663f0346fb1d95a9f44b566a0b2ef6bba9699f1d74a2b582ecaa5a05e08642",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ko.langpack.xpi",
+    "sha512": "cba9c85f82c4a025a56e25818154d0c654c46bb6c88c70b1d641039ed2e9535c4db0c79bc9c986a2bbb282468115c4cb14a859899ea4439bfa5e8da0a8bcda81",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.rm.langpack.xpi",
-    "sha512": "f68d5bc4bc4920d8c137e18a5054a7e0fda453a42a358b3fe244e9c043913507563455e8463a972e480077df66f93560d90987c263e3b233d85bfa02249d3032",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.en-GB.langpack.xpi",
+    "sha512": "ae64a12a583a28e180289ec19602480db5b4508e1ed0a0dd004a6b66b670442af43430798636686dcd12532a73cb0a8c7d2bbdfaa99e0345a210df3d8378ed36",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.mr.langpack.xpi",
-    "sha512": "c21cdbadc467966a207e859a7beb89e193eb39e9f489f69762f474ab6cc401b40d3a746729279f04e622c930c53723f81edd3ec3c1bb92e061f18b35e78dc7d5",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.eu.langpack.xpi",
+    "sha512": "31aefb491b219f11b2f996c2a70a5ec52f5977563caec0b8a3c0f7f844ae29d08841d486f9ea14081554132a39d420a17d87db6751db1d8fe319144d24277aa0",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sl.langpack.xpi",
-    "sha512": "7ac95dae194b3e9c5ad638a0b70b208b58eb4d434a72578eb9417730299116bb0570b2cbdfe3a6cf43e4cd40831f1f5e436997da11bccd64c61e778360f6c0e3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sr.langpack.xpi",
+    "sha512": "82df9aaa262639876590c8e04d36cd774a9a0b3087a2506d7479c891befd2e9f66043716d1d04f44e531b896573f06ac3c6fb2bc619494aea764ca10f026c688",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.en-GB.langpack.xpi",
-    "sha512": "8ee49f354d62b40adb8ffcf74d16c3f3ef6c1108d9de953c3e3c82f7fb1ef3dc5203ce705c3c9847d5db2aefeca6af70b4f12920acdd6a8372524947704ffd08",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.my.langpack.xpi",
+    "sha512": "40f47dd212196d123f3527d951c574b15e88235f87ce66d77351d99e5ed6b676ac63f16cc09fe29cb16c6eef2216ac2c7bd1bd0aeb5a3a5b9668a8b10a7faf0f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.xh.langpack.xpi",
-    "sha512": "91463e250a07f140fdf69bdf83c9525aa312da808060e486e2916829e525964b71fbc19c79f4c355ee9fd485f9ce35fa38071ad4ec499768580e794362cb1611",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.bs.langpack.xpi",
+    "sha512": "4685c26b99083a42871e6f4ff8a3b253344d022b706cdb34bd23aad3ce7ed453330d0187dfa5cb6358cf229b7536f5ca5bbfffd64a64bd1b4d5d07257745714e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.si.langpack.xpi",
-    "sha512": "7eed2573642b577eda1138b2d7498d2aa323ecdfb35f3cad2fd433df038c16c4589447807f2dd54f0e46760d6ed21e0b48d98d39c0262c02dbf3056307d61e16",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.be.langpack.xpi",
+    "sha512": "db5088feea82f515d4baa2bb08536432a21f182b290f0829d404e23672cbe1e1dac53931e6e4504a02eaa291c71adfd8a8a82484eed59c836e8eea6e732c5b0b",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hi-IN.langpack.xpi",
-    "sha512": "0c8cfdecf567b047df02f0f8c081d5a5259438a0afde6f192b015eb072bb9200fcef4f0653d49fb3592b9819bfd1a47327cba124224f7890e12a5e45f6a3c3d4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hr.langpack.xpi",
+    "sha512": "3b6384f6b370b442967ad8edb841b1f185dfa72a58b76fe4208e7f04e1c4d4de91d647e8aa6e73c58f4cafd5db7918cc1f7b6b63ee853fb2b337624521dfd431",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.en-CA.langpack.xpi",
-    "sha512": "22e3c0c29886519f7ceaf5eab04b2699a2f13ed5e559a434b6fa62d26f07b15dbbf2ec44bcc074aa5cbd909202c1fa2c8be15a2eb87d85593a478ce8b9a8e03f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ltg.langpack.xpi",
+    "sha512": "bfa9de21aba8ac48820113512ef8a8af9a8e07e85ec43f98662e43f97324b2e475fd9babc0ebc288e5b969ccaf113148827c790b20f762b3b494d7e10d38f680",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.az.langpack.xpi",
-    "sha512": "a7de7ab4449a00f3e7f02030c6f3ca1cea5b00f8fe8fa90d107066cbb2b5d877ed1f7ade5097722a0b527acc5175d3f33495afaeb2a069a0b9e75cb3d8f235d8",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ne-NP.langpack.xpi",
+    "sha512": "4c4e95b161f7e3d456a1aca0f958617f8e0559103c63d561f552c681936808ea75cf7d41985e23bff67ea0ca320299c11192886df7f204f665c125dc100e0c92",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ga-IE.langpack.xpi",
-    "sha512": "c1f4d540e8d0c967a0ae3cb699e9e2f66b3a0a7bd790f9fd9a49f088b42d16797768ca2c2e7f0e88bef6c2f0cf27bfa283f51385076ca80172d1f2b392224712",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.uz.langpack.xpi",
+    "sha512": "99d8ef94e4de838931007bb67b9e09c160d58625129413bd1b992f29ad6cc05d9563776fde1d8d7cb1ec71f7a7fa12fc2c59c4a08207be11c82520a4e3c2a83f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ka.langpack.xpi",
-    "sha512": "4926bbddd377d1dcdd99de62e416f94694e5fb5e1a570f04490b83b5c2044b8b1b9e377ffd4b9292a8d2eb2c470200a4ff2c7308a1e00b46b7c319a190fdb586",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.wo.langpack.xpi",
+    "sha512": "503284c192595d9a8cb3d8e0868bd1942614ea9ed513d73cf92bb3f577058d95c6c89cdf0c7b8ac4c42f4efa74f6883f49302700b0c9fbb35ab852b9fbbf5fec",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.fy-NL.langpack.xpi",
-    "sha512": "60eadbb229fae44097f3e16038444ea5186bffe160c7f36ed451ec56379e746ba3e15cc9e2e398f0b619c127ade811b02bf18ab96bd8a6031bc76cde7ab05f06",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.oc.langpack.xpi",
+    "sha512": "09abe4754d44198046bfef4ac85bea4040c5033e67bbaa4fef85cfadfceca06cd95793cfc871e504ab73b97e5e69ab5036478538f1059e2ad0b6bfb323530e88",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.scn.langpack.xpi",
-    "sha512": "6cf6113aaee572118db11433a16ea39625a200bdb1193c179ffed158236590141232c52c085216ff448ce0d299e42b7d8bb956dc1a287f4edeae5dd76557ce96",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.zh-TW.langpack.xpi",
+    "sha512": "75c8a074a9b3b2e0d8e8595ec2f8a1f69033ab48d84d2a2a9495fdf415f5750f1743897c47bef6c30e8cc4ff37982557cf2304ca29a0fdb153d6a7eef95f8fed",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.bg.langpack.xpi",
-    "sha512": "000cdedc347e2d280c7eb6a5d6e8f4c4bd4913882645dd5483ee988d511003658a6e26a95913414d8c804d340d4d0a249a639895363b07ba8dd1028340cae80a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.fy-NL.langpack.xpi",
+    "sha512": "385bdbd4ad31a2b2effe3581fd329b742ffe353f3adf204190b2dfbc82826eeed00680360455a16b029bb82ff0267cd98004d15518502d00a953304f4dc4a2cc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.id.langpack.xpi",
-    "sha512": "e9e390c0bd602057674c45b42fc55c7217a98ddca76b3174d94188ff880f724f5b9768f62f9e1e665a8bb382c6ef7131861db60e7aa62f17f46646480252fb59",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ga-IE.langpack.xpi",
+    "sha512": "fbc92cdb393060244b6c649aff660fb0b0e1f6c0336196fb839681795994233f458aa1c7a4f2651faa65ab95d74126c789efc5db689af221ad335c0e6183ad78",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.my.langpack.xpi",
-    "sha512": "ff1c23b5c485aabd8b177b582ecaaaa124d961a11fa16f582c766b305352abf406fe4a5d686c53b448fe34bc2d4e0ccc459d60b420dff25137923e93f551f9c2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.skr.langpack.xpi",
+    "sha512": "9eae906a8f825b27b7e56ccb49e9122941b4bdb2602dc4de22ffdfd559a7a2e7fc47eb61542cae286e00c616605df6a425695e8e1d6470b6c8932da02290b390",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ne-NP.langpack.xpi",
-    "sha512": "18c8c445e5ce2aa5981aec63bbf70f377c98e655f80c32ea8477c98af8c9aeb115510b0d10d31d042e7ce3d9f120696d95e451575018ceecd2ac9c55c381e515",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hye.langpack.xpi",
+    "sha512": "448def04f2a196f3dec59084d396e22f989e6e39cc0cb2d14222ed7688edc6a7cec659c4101e8fa212852b00d8cdf6dc18fd11702cb9f2f7e5568470881206b7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.tr.langpack.xpi",
-    "sha512": "0b0a530365b9d967a002cbe632d31a2344e874e1940581254d2bc8c8c961038e3dfcdc345d57441d73335a74b14be9e557a8e45c4ed36e191a21c5694f4c5de2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.az.langpack.xpi",
+    "sha512": "de802079ffd4d7ed709a1e1c45a9efbdc8a96b3075b7f46fe0d86811f8ebac3dceb0c594b7ff6039a52b4e362724379cbda49a57862655c38cf6733d013f8ee7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.kab.langpack.xpi",
-    "sha512": "8cb7787d603dcee7a0fd601b8c30bb5606ae1ed4da98dc71d1cc1632324f0fa285fcdb499f64bd7c3b014e7c8a9d9322e53af7cb086660bd2f4265825c707e20",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ff.langpack.xpi",
+    "sha512": "39d2329cd2f329508e5df9341d8ced178d02e88de327d82db94febd4567ad96364d900477ff3b44ed69859a9e06bdcda9fc7af52a8fa998f0cc5219940966f20",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ach.langpack.xpi",
-    "sha512": "e7bc6c3818526456b9697514244066ed748487bd189e546d2a0c48308962e9d88d4cd3619e9ebcdc73268a6114a6e66adf46fd7db2f01d355626e44fd02cbbca",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.lv.langpack.xpi",
+    "sha512": "75249137795e4d25ec62944b58ca6383695264f59ca1112bd28d0add1162213a006bca57de2bcdf46961323c29f906107443fd3ed8eb8ac2e1222fb053bc351a",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.nn-NO.langpack.xpi",
-    "sha512": "d76260d040c0b5329d59c07fd061e4e003832fce9681c0128898ec6f779e5a88acefed9b3a137f864c467e06ad1c06a3ef70aa236371ab752cefb174cc6a29e3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.es-AR.langpack.xpi",
+    "sha512": "1bb46730c1612b986913c32d0231902f4f456320c98e627e365c4a54938a8a611c39a2316d333e3b5ce606694f595bee6a9605ded64754dd6653e8f57758516f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.uk.langpack.xpi",
-    "sha512": "9aedd49606406512f5b93e7ac614f0826780608104a9feb0c19491d4779389749cfd08c14db01255a8d06f7653c48349608746baf0201148f208a53084cb1289",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.gl.langpack.xpi",
+    "sha512": "74250f2e65dfc9c6310ea584b6dd353d2b6fee09e6bb25f3553d27978d7e3725ff32563acb0f1cd18630b2b8d232b3093fd0cd6be652706d43faa23e280e3417",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.es-MX.langpack.xpi",
-    "sha512": "b26c86935bf9efb8adadbfa7a843749745f4dd7fe7465d49d904f4bbe7f790278d73dd295101b0d3c3d14cfb75466b0677cec48329a9f895926661736ac3d1b4",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sl.langpack.xpi",
+    "sha512": "62efccb438f9c7c60e1933206d674f30a6e8152d87dcebfbd7237e3f736f139454bb9b0bf4532f6047f64a8c61415a0a118ece24ba6d8eb2749c4166cd72204e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ckb.langpack.xpi",
-    "sha512": "1c6d8a63dc92a4e35114fb836386700206c94157a6fab1b952f1e0ac88c0ac613d816673a57e0080b7c0a81285fd2d630b4a6e7e86842db60f94416acd2cc161",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.mk.langpack.xpi",
+    "sha512": "d58e7759a48fbd58403b93503450f47f3524c71991c6e2d6ed81372d513782e85eea54a0536eb593ef5a56996bc019883cd155234d490d4fed01a7f9f9b36005",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.es-CL.langpack.xpi",
-    "sha512": "a2ce11ae4ab0d66062c0832f2f9c4065a49f29d135f9fe41ffef76f93d2317ee51544ebb9318ddbaae3f329a1c936c13538fb4fd69cc9dcde57c06b6e684513b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ta.langpack.xpi",
+    "sha512": "e76c614c7938be1f852d61f801f928633583dbe003dc6f069d1950e56ca470ec70f4bdd4b5f43c5450937bf08b350b6526ace9465218319018e4c04cf14ef842",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.zh-TW.langpack.xpi",
-    "sha512": "9c186da7e2f4e219466b21f8c7979e899958a36bc6123e3cda901d0d8b4d305351a234ca420bad8374df5f9e4659bf14d7a1be4b8c906eec63d4c397cb6e046d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sv-SE.langpack.xpi",
+    "sha512": "8d5cea63f91e81fdc4beabc8b6a29d7eb188be3f2ab1d8e8e381d2be894ca40ba757fce08cfb2c8e8d1bc33aa4104895e8152afb8614474944c2e665972f5122",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.es-AR.langpack.xpi",
-    "sha512": "2d2e0fac1a750cdd9f01cecceca9febd3f721a508f2923c5cc99384f15dd51e25d4db180f5ce719cb399f7797186ab5fced6e6086d42cc6f7cf0e46c5b416ef2",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.tg.langpack.xpi",
+    "sha512": "9128be366c2554d2d6097e6cb5cb47343c9b4a5b6ebb8ab9e92799595ba403a682d251afcf0bc9c29f51133f19b854e21ce8747b5c598a09dc32c6ebc8523cf0",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hr.langpack.xpi",
-    "sha512": "100ce893762cd4a1829d38499162f0512c3cd9f69de14123eca8e57a52415d784f0a855f1ea3c047d1831d91aee6f8ee25f064b8d0326d227c7421d33eb7bc0e",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.fur.langpack.xpi",
+    "sha512": "d0dd090c1d5f80a589ab1ef873dc68a7f815559022fb2d22316c49fa99b49098851a6322d7d4bcce84ee3b145748e1fe20b6628dd9df8cc8fdebc7b474d13aaf",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.da.langpack.xpi",
-    "sha512": "89dabc0b432dcd062233031a199524df0255b4655a7816dc453353b13b24a952209ad74d94289b83bb53547057142e94b79006e2673d906d4d2f190d73e4254b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ca-valencia.langpack.xpi",
+    "sha512": "2fcefaf6b24c21da05f4a1db1da270b7770046e54722f9dc9a939843dbe1f8cf121931d5fb45ef4bd13799abe2de319a3faea2db6e641e728f8535bcd25d62f5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.oc.langpack.xpi",
-    "sha512": "60c21ba0a06d8aeb65faabb5024fee3b8187a0eb1e93cd4b525025aa74aa26f194705ac71062ab3275544b08de88109475b60320097114c8d04efa96340b2b1d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.it.langpack.xpi",
+    "sha512": "d3721719383d9805aec903422ba6c35a4e0fe77771477f9ea1935acfe8e67874c602af33605d9a581f4670e8c052e4b602cdf64a2867a2a8fde20cb93a6fff71",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.km.langpack.xpi",
-    "sha512": "e824883eff12df4f11bfe368727c170be78591345051aae6cdf0bbce166dfc74f502d06391d8eaaa4c7eb01073b8a00eeff347c2ee1692748e0cf4645b356b43",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.dsb.langpack.xpi",
+    "sha512": "428dc305167397134d54ecf3fc3573e12a8cf4a96ca288e1c0d29ce8ffb882ce6da92b2e57590f2b5d4b1ba831e3a95fa747c721a7e4fbbe9a541db03af9c823",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.de.langpack.xpi",
-    "sha512": "2bd6acfe049558658aa262efdea48e6c8e86af0a4672dfbad3dcddcb1b98412dcf9fcd3e61783da15be95f57333655730cf7758f6b1fa0d8eb676f3fe9ae8884",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.km.langpack.xpi",
+    "sha512": "723260cde31e0e4607876b618c7be6c4910ee418a41e5234ec7123f30e68266db6cae5c39528f8be104dda8d56e56b15640d1b5a02550470ac9e73649a3f860b",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.pt-BR.langpack.xpi",
-    "sha512": "53fec1100f5925eee29b50a767fafc21a0b18347f30aae2675650977b75472c28cb65ff085d3bf2c5cf15beaf6d42001b5082e3dd2380f521591a54e06520a2e",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ru.langpack.xpi",
+    "sha512": "de807fdd67515ea0cb458a40a00adb6fe0a515d3f8458887a1dcb7e372e22552edd764438725ed2ff7a98894634525542ff38bc99b40af93c00f749b463f4f07",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hy-AM.langpack.xpi",
-    "sha512": "bc8cedf25e75b6e8731d9fc32f0647dbf2189013fc12daf521ddc59a39f3ee86f59e7e136385033c2d5d3b2cd54942d67dca7a6576df45eadaa57ee9097aeee7",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.tr.langpack.xpi",
+    "sha512": "d7f9c80d5a85ea8829c738b9df27e545fef775070f818dd24cebce25c0c8e16436432fce638c9d25cf111884ce82c9036bac4df0c3afdc9a99809b2ab6f8623e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.zh-CN.langpack.xpi",
-    "sha512": "b1e8ff726ebf877a4cf9e163d195d3bd5c2b45996cc68d6471179bcd16310fc6f7504a17a715cbfb9ccb491c0e36a0b4d35352aa530071b18c125e92bc2806bd",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ka.langpack.xpi",
+    "sha512": "82e7f8fad62143e0cfeae440e2dcc7c341df98c21ff51d74c908db24a12030dd57296d307c0f4c866f64e8fb2352fb1a8998a5ce7c88f6a36d67c033c0c9b7fa",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ar.langpack.xpi",
-    "sha512": "d780c6fbe9ae529194649270a46e4060987dca273666e618b1d34ba48ffd46f35513993a689b045d76dc2ee4ea41b2fc16349f6600f0db971f04bdf6c0773198",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.pt-PT.langpack.xpi",
+    "sha512": "7f8f9c1acecb321729049ef5f463d1e75b88245a6291d49bcf6217ff141f8623c861f7d2aa535389b01348c63e5c8268ef70df260ff37cc47d47a5c3bb36c919",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.nl.langpack.xpi",
-    "sha512": "bf76ac58565d044fde6b3797063adaa56043164a69de2cd6fbbd8b58eadfdad3324ebed832e3793b2bdf5e9027d2be1520b8447deb2d3b3b55db3562b688e8a1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.si.langpack.xpi",
+    "sha512": "927d769e6578241fc1b41bb0ca12d9609aea39c0c5df2414d3dc1d381621ea498559cc42e1dfc1c963d758f07039f0155c175db514dd3c2368ae7825de708b84",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ur.langpack.xpi",
-    "sha512": "12d36a1237954b0f21ead0e77b96cc4c183ac86258647b4f00ac40bafa541aec1eeb72b7b630fd33f28ed57541d4a9faa93ae7e9745318f2c9f625675ac4db05",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.br.langpack.xpi",
+    "sha512": "1dc140b31d6935f557831441e3ab9f3380722ef197aea2d35867797193c9d0e2034ec04892ebf933c4ec643bd56b03e0f8469b9bc00edcd5a19e76cfff38e276",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ja.langpack.xpi",
-    "sha512": "17638296fed230c056049111d66089e3fef61851b40705f0405b65f735ceb691e1f95bb5b2c7384e70123d33ecb6b550cb0f6ffff167d8d8700c357d89c47d3f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hu.langpack.xpi",
+    "sha512": "ef1e8fbbe2f1b3ce88ec95485f8428c0150bf90cc27e37c746a61eeea6a463f9485e952fa1bfb84b95abff3323b086c220970fac377bf1bab1f614c347d6edf8",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ltg.langpack.xpi",
-    "sha512": "c0e4664d7150ea40273ec5d5c79758878d0d85be3c41ea0a431662a9839ab6b6464753c788c5d369422aa9c3b134df54385cf70e7e5f4ff1479938f8eafb04bf",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.lt.langpack.xpi",
+    "sha512": "7264f1dc476b87fbe5730b4ca5d072ebed194224b0023835ab487cd0a95d185001eef82a9e840699e639a516353fa5ded0905a31a0746b77b438abd70880faa5",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ta.langpack.xpi",
-    "sha512": "bf7e220e0a2ab78e73e990189332bc4f246f7714491499d4c7decc1755badab19c33d854f7b6ef642abbbfac9598c5a930458894a4ac59f9cbceb9c40ebd21a1",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.th.langpack.xpi",
+    "sha512": "323af99271970a3f43a7bed5200c17990dceff996095e715ba972d683683a9ebaa8efbb00aef2150b603b20f0aabcdf6ed276f5136ac6966814211b51bbf9f2e",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.pt-PT.langpack.xpi",
-    "sha512": "e9aeaa18753123ace73219af34e385807afc1ee9dba0f6659f9489ce7c2b3d2ce0086c9da6eee67aac446da7f956999adeb5050e76c01639f576f1cf120b1498",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.es-MX.langpack.xpi",
+    "sha512": "02cf27f558f346c98943039f6a42ba619e0c335cb2c2f5c9bd149d26a6be1911062f30abb48ba67efb7919fc548a741dc1f2139a8f4d208b43e18ac38d25c3f4",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.lo.langpack.xpi",
-    "sha512": "6d6fd8f3c3958d6893ef28b581822780cdee083725af03e5d401b78e616e1721bf700e82c04f1c4fae28608cb11aa03573be51e4dc09eeca0a1dc0109537f410",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.son.langpack.xpi",
+    "sha512": "35dc4f33f60b910091aece16b7009bb8bde977021a6aa07ad7cc982bdb44d5c975a0f7ba275fea96867014cd30d57fe820e649443b640267a96d9f9c50e01023",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.mk.langpack.xpi",
-    "sha512": "8edc0ae7739afa0d8402711a9b7903413b16863c13705b2e05aac51f416b99f39f7ed2ea11a85ba366899b1d0bed04f4a9de006a377930058d53be2fd12f39f9",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ast.langpack.xpi",
+    "sha512": "2f276673e51cde60e19b3b59366b1e70c3359a847e852b99a7164699605e98507ea85e2f033dfc6a9c3bd1acdf185177d9071c33751863f4d2085ef454ccc392",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.eu.langpack.xpi",
-    "sha512": "debfc5ea3d843fa6fc0f4a9b8292955726e82052eb81c065953ca884b30cad0b21d87463d552265e664d3c64674ec5333dd4b0b0ef074a0126d587c9381d1c86",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.scn.langpack.xpi",
+    "sha512": "a173c0990abb29e4fd97b0e70f226a16f89394d52c21089da8686cecea13791f732718f89fc60802b31ddbd7f769a65c950e5044b8574e90ba4982cfc136f016",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.fa.langpack.xpi",
-    "sha512": "97bcc41554eae3a9d861a8b2894d2bb529a32a518754038f522ad929017f34a5b091c03db8e2bed7cfbb32a827984bf6700dc466b7a6ffeaaf57b4cda0fa09a6",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sc.langpack.xpi",
+    "sha512": "7aa2d9a24ad87b156c5fa0812ca9f8498c7822a694233aa0418db9638bc622fc60357de3cbb23f4445bb298e8a472e9fd3f64c6b9b53804145900c97b112add8",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.fr.langpack.xpi",
-    "sha512": "614ecc3536da2f2bfe682e81c14bdc32ca51af6274c59d2207c24c911a76cba4a881b6f9844311dc3734fbb85771008cd5ed97308a0aef1e27c8dc11d9bec139",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.is.langpack.xpi",
+    "sha512": "a5ef28ccb51f8de10e0feaabba99b03de8cd3abf07266de8314d9543c7ff736f965f0315652d41d7bbb4c6e19ce7e22b19690ec911fdb5f641e2beead989a609",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ru.langpack.xpi",
-    "sha512": "6fdab7b2ad2d54a86c214b3ed95b466a47c9e4f7177bd13730252f0a33b23781510f8524755f76b00c03777a54a1c87ed2b319aac1f81332e9cc3cfb65e1571f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.pa-IN.langpack.xpi",
+    "sha512": "e0ab46ff9ad0466db3ffd0904888b2057516d9e2886638bde13ca08a8f189d8428ffee4b1303cceb11902e71ae040eb622d00111a48e69956622530267d7ea48",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.gu-IN.langpack.xpi",
-    "sha512": "1ec2a0097402b492c9decd441d01c4eb4fa704a91967f17567de40cd6492a22566bdf5a459b239925cfdf2007dd256b346bb4848d2db460d8dd7fad4d42f68db",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.kab.langpack.xpi",
+    "sha512": "58ee9f048fa8c6c29fb312688b0ebf64807e4a584410920d97e96e2df3be9f8653eb4a62a51611763dab31e9f87bfec0fc607fb2456b3402d7307a9059878aac",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.gd.langpack.xpi",
-    "sha512": "290fc96c398b7389d550a31646828258d15d2dcb0ba0b5c4cda9a5c0a41fd339245ca6e13f18c39099fe65899483b22cbd1ae35e4bf9d3046bdfa3b9ed5aa1fe",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.te.langpack.xpi",
+    "sha512": "63e3cbe27fe7eb19586ec9adcf5feea743877cfed7b66ebef3e38229bb8894e5e841968ff68f08dd802d0ba6d7da0399d1c1dd2a59606174687f2d733c656e4f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.lij.langpack.xpi",
-    "sha512": "dc5a9b43dd217ec5810df85e867f3af5ba4604e52db3de51e083fa054eccadbccbb8f3b82857fd437f6fa4110fbe17055c54de289d85f11dea41f985c83eb334",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hy-AM.langpack.xpi",
+    "sha512": "696211ceb1399df0f5be0dc457800d65af1ba42ff32556ad154f22beee5b3a4bab21b912173760608bb319614581caed9aaa4347639319f3bdb2f17671daac58",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sr.langpack.xpi",
-    "sha512": "2d5bfa9c635988501df9c0d3d1679737b5180765c4e727bb74cd3009d42344b7eadd0688efed7d9ed4e7cdb3774b638d770674be305b582e2f027e761a6c7934",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ms.langpack.xpi",
+    "sha512": "de38f69a8e98387fc01f6745f38fea412f084e7021fd482297a860fbf54b65b35a5f36bdda42d162868f94e3af41f1afefbcd330a7f483080da44d2c53a688cf",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sv-SE.langpack.xpi",
-    "sha512": "61a946c57edf9cddba95252cc738c3d5e65bafb385a17295f1b3f3889af6251a3e2d8cce77dd914ebb87e168edbf27ba60e351fb2066810529eefd091cfe0ae3",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.gn.langpack.xpi",
+    "sha512": "29578664fcb1348f9055c39529a3fcab5f4c7926225d9e6a66550c24944a37696b46e6226fe3d66e273c46883edd47bcdfe5a74ea48b9e62f6ec661f78d62284",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.bn.langpack.xpi",
-    "sha512": "eaeff4934c379456348bfe2b1b073679b2b103f82f29255656c62f009db3d71405dbb6af3e8dae56d9979f0e1cbc6db93eef9b6210add9934a1fdda80540c947",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.fa.langpack.xpi",
+    "sha512": "13a822e59381bbb69d3e956d8a59c6061bbe539a38c5be3859e3a40fbd3f76c979d676e7df099dd55c5c06ba23a0a7304f539328e0f7959f545ffe501143f448",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.gl.langpack.xpi",
-    "sha512": "b22e50166f58a4cc351542ec33cf2bf79a1fc77c5b5e27c4c9116f957fec1f4b983ed8146a14e1880f6c0d66e09b2c6c6a36d6676d107945c675d7d8b2d5fa89",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.kn.langpack.xpi",
+    "sha512": "1b1905f23ab028b10e42045d16f7da8627738a3849cdb30f8b953e64f1e518473e4bed8f122953b1d127cf6e592f6e7d035580a802c1c170d27c9b8fc3028a13",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.lv.langpack.xpi",
-    "sha512": "f2a4264488b1aed286e3cd55848477bafb0f51d8c63deb8d9cada3a37daf6288f9a4b97515ba49a4a8d2e1f70d58131ecfd613263d2464f4e543c89bcd19e55d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.meh.langpack.xpi",
+    "sha512": "9977b3a5652b6cd782dee2b25d79b0793423c91dd7db71f61c416209da384aff2a0fc02142c558b2afcd98a6fa5cdda9f9c7f76036fc674367495f972482066a",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hsb.langpack.xpi",
-    "sha512": "e7f165df08c73160e780af2d66d600c00982a4c5e5e9209d3149a894d0f724781af8ba725816ef60dc9c976641cf1b8bb997f310dbf2bf87369d5e2db890c28d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.trs.langpack.xpi",
+    "sha512": "59fdce3c795e1acb2fbfedac111186810480906864c7c889347fbc849b9f6619778852896bc7af25d60d2e17d8b3dcc408446b050a6b565fe9df498078333738",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.th.langpack.xpi",
-    "sha512": "67349cdca8fba9fc19f63241f3466bac19370da642bf9bfc933cf14b6ec75b9e6f6b6a5288dd0eda81a14932610cba401070d6b44ccc04ecf1e6ce7e55cb815b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.vi.langpack.xpi",
+    "sha512": "791552c8d24cc24183849474c227b87cbc7e66111b3d653f19f1bafb70c5fd1b99bcded107f850da983c9e30429ca81d24b499490c1edb80dc4de33651218cef",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sq.langpack.xpi",
-    "sha512": "7293d2359441dfa37e2f3410587238611bb0faf510e509670d5cde8174e8eb3a7594bfd3f684edae58543892c5de590448eaad75a14bc15f9c2ffc7942d44f27",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.bg.langpack.xpi",
+    "sha512": "370e704cd845ab1d9f0ebe1065ca0881eee42ec009e158a43eeb6333ca396675011b640401724fe80c90623e44e754343599f9a23f8eb9f7e8969202d6248890",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.bs.langpack.xpi",
-    "sha512": "b005c457b930081a0e2ebce3e6b32156cd3ed49878bce2c122fbfa9fac4be7926ac9a2b0dba489009e08550c933b2652bce726fd6e8327ac7e0fb62cc9ea1765",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.es-CL.langpack.xpi",
+    "sha512": "90791fe1b3f2476e149fe2ac620cefa6678578710cbf4366628c9dc40982cc5720c96d6067704446de8f79481435ab64e03ce6d72799cc25940f0f57fbda19f6",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.an.langpack.xpi",
-    "sha512": "ef604fc3af3bf732411b77931b6e142bcc12b521dc51e8d81d09ee6c4a81d36b636ba6d9608f29d817cdd377779d99a16c9708fc5b7191c19c8d2148eec31daa",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.pl.langpack.xpi",
+    "sha512": "4c65dd50c9c0382259c13b9efe5bc97119931b983fcf19e1056de7317c270174c55862f37f9a71e8690c874b13f36b1899f34707680640570fa04254bb8c93ca",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.is.langpack.xpi",
-    "sha512": "4ed2b1153282937756bb639290d39a805273b3378bdf2a47fc714d024074550cd678b760ccfa4afe69522810fea6d08d21cdb59fb765768499f44264f298675b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.uk.langpack.xpi",
+    "sha512": "df51f46b362000c3c36f433121c18e9fe91b3532f6b8cf7a4de15d23442756575603f1b36195ca665589ee635faf1f9b9f61223505395d4354f0f406dbc24aa6",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.cak.langpack.xpi",
-    "sha512": "3d30191c0e34c7dbd89a9c5964277308b91349f055b681421fa5c4416462e3a731c67290f310006f34b9fed50fd91757602d9df29336bc1fad8f6fce750246d8",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.af.langpack.xpi",
+    "sha512": "8a86203f510dffe07622a6fc80c206afadf353f2688be947adf268532fcac4c02aa38fac88558a1e4cc98fad550ecc25723e0277c599d21c0973673b9fd8fea3",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.wo.langpack.xpi",
-    "sha512": "df89dfb38d98cb1dd1792ebcd2b2423e446aff702742dc49a90733c1fe5299a9249db4202bf6782ba712f293120f4f9e0088499e9b7ed0bbf080aa1862250da9",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.nb-NO.langpack.xpi",
+    "sha512": "e427f9d5b85e89e7d0b6312ef1d2de68be825e1e01d9ae66b07eac7724bc2205cf7edb19a71c2c27db7790d6ac45c9bbb4a5e266059a3c752ffbef20f95092f3",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.eo.langpack.xpi",
-    "sha512": "a8aa6333059fee1551698deb84c1063ef5df8d6212614d7ebccf6dcce37f834d29eea14759f71b2c50b3d3641779030334620dec667c4cd332e53b045fb5aa09",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ro.langpack.xpi",
+    "sha512": "99dffe1ceb7c4d0cd6ee28e1e30aceef053eea2e70914f9072291b8e6402a3754a0067d17e4da13beba6a534c2940bb219d4da6abf0910b224c43e9c5780ceb4",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sat.langpack.xpi",
-    "sha512": "a076f60bb460df52a7de57b36df43ade13b17f681f42ee79a7e004617f11f05f98bc87974c939829195159a09e44de77122cb0aadf812cde93a56bbfb5fc0f3a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sat.langpack.xpi",
+    "sha512": "e5d6aa9c5b7239790298e738ff0aac9ac2210e8e38dae1bb96e8b58d4231b5df13d886702e884563aac65a20ccc01415ac3f714d3b9b707d6e49da3ed86bbcdc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.skr.langpack.xpi",
-    "sha512": "e210d5de395d7f5ad5ce01a8d8b66f49010a39cff5b7aa8a4c942a03432b7b85fffe419e57601bc60a96cce8c93624b3830441cfafda2753e165621c58ff327c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.fi.langpack.xpi",
+    "sha512": "00a9c3fd5f5fffe66cb22090808545dbd8ba5324a1973ea7f0af9f22e2f77b00af685bbd193d7db6693ca0a579f07c25da5b623fcbb40b41653e60ced7f18b4c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sco.langpack.xpi",
-    "sha512": "69c8d01517c408890f994b4d1b89de7b7032d8538a679e8657f117f749350768cb133a77b3f6a9da60a70e45b28aa8e4f54268876bc9d9bb8c2efb08da4808f0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.eo.langpack.xpi",
+    "sha512": "8a88327f1b43076dd5f8c7d583782d880ce337d22f53c2822da17719439f7dfcba745ffe6c6772845fce3c867617b3ec5868feb7ab210c8a0100c1f8f19b6861",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.et.langpack.xpi",
-    "sha512": "c96a1eb38419bd4c1d116e830aa8e5850467aa30a1feb0e304fb25c69ebb5281b82d917b018b0ac0a90b39284a96911fe441e144f135a491d7a753fa8c04ed0a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.mr.langpack.xpi",
+    "sha512": "912249ec9c7ac627bb820f960896cfaa7899072e7e6e6a5fc17930f7f65b96155facd3562180d847db80a670e38439fa680820bc6e9fce61412cdc1c555fc315",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sk.langpack.xpi",
-    "sha512": "d35ce4d8ab0c8fc3b0618d6abc45fb5c2b078bcbbb5ff8fd6ecb51c84815c6f3d050c6f1c2488839a984cb35f1be0c6bc1a166a1becbd99d27450b02ccef348f",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ca.langpack.xpi",
+    "sha512": "52e86b0b6771b6112ce4346eed958b652c2ff883a8d38d321329319e4f9c6496d4fe851442af65b579999de65e48a8d9125b0f3b740b18b4a36f596d17fcf48c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.trs.langpack.xpi",
-    "sha512": "eb70bf7e5e12366177c5b9299d1bc3490b458a0fd8c8ae8641a958facb0fabe3b56866f25d70a20a97172e7f694b98897871f0524b8903a182eb1256f7e10449",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.fr.langpack.xpi",
+    "sha512": "bd517b3426b941d4d1da52e27c074690006eccf6351c5c6918c3fc942bbce8506ee7fa9fdf193cb5b8cbb5c6fca76925c9c0e2dce8b5f680310b1d505d36effd",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ast.langpack.xpi",
-    "sha512": "6c0ac23afcb9ee61cb95612a503def4e644e3982edd271a61a9bd770d6c5a659258f0c4f354938f85839dc9b209f0100c46c83967a562d47b773ad132e6d642d",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.zh-CN.langpack.xpi",
+    "sha512": "12c44632fcfe0ff965eeeb44e794a40a710ff0e31f82ff127a49742ca36db3141b91e11ad7855fbf61e7e74b98d0374d3fecd702a673f918f925ce5cec3a48c7",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.fi.langpack.xpi",
-    "sha512": "a404950944363fcd338055d45cb97c822c399db99837dca445a06881b8c80f4169cc46bc998d3e3b4673852f8da097f4fabe091c04e5a777868cd3b14c296054",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.tl.langpack.xpi",
+    "sha512": "469d640d8f9ff1110a7a07fb2c2249600f1d98b16eb242d5bc73306540305675f45e6b0a8a839ab778f4ea405f7d5e908b1186613d519dc897b515c72735b6ea",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.nb-NO.langpack.xpi",
-    "sha512": "d30df9fda2d9f864fbd9b8128e9c1d71e311e7659fa0077b120ec030c0b98e9be2206bd2e972646775b500fd9c0515c259d202ddd6c8be35069154ca61bb11e9",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hsb.langpack.xpi",
+    "sha512": "b10afca20f7b86940329d10e1e53e9c3a2f7fe4a39c6c10e83ed8191434b25c03ae68c422512bcfe72e1f5986e0f22d45832cf084711370ed9a225bf51cf8046",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.pa-IN.langpack.xpi",
-    "sha512": "57832acbf4a5ee19846ec5c451191416e3da20bc062e428d05334553af87696231df08d8721f0cee22b8b23b2e31bff5c6e4bbfb1a97503847a805491c1b6493",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ach.langpack.xpi",
+    "sha512": "4d05badec2af86fc19525b5456a8a3e54bfc82e56daeddb283a22aff1b2772b27453c382c9fc47f5aed378e0255b10b108be4678aff33e5d771b1b8f03bd3981",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ca.langpack.xpi",
-    "sha512": "c943e51fe9fb64255ddbcd00f506728ab63fb8c2c500d4f436f355121a4766dfc6dd51804e926c0ad7b4f92446b057b98eaf023d0d8b92f4e5f5c63749baebe7",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.el.langpack.xpi",
+    "sha512": "fce5f24af23acd720f83978b31e70faab0357602cffcc55b55a891780df15418daad3b2affe550eef2bb4d9176e30ffa6d8e17f4e1d32a151842b1501501f660",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.kn.langpack.xpi",
-    "sha512": "6f6cf5354e584665670614297049e207f00420e231a0fa1881d8e43a4bdb1f714060f43938e0963796ceae2309f9958a5ff767f495a07c1f7d5bfcba3db54d72",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ja.langpack.xpi",
+    "sha512": "99b83b73287b5ee36706af2f815e8b1bd44cf5386be211b2eda8cb36ef29220dc55bec821eb9c82a68d5c888fcf115e916453e016ce322833d15210b388cb4ad",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.br.langpack.xpi",
-    "sha512": "e20db197e019abd5cf2341766be67052e0a2553d5256c9537d72864fcd8932a321bbc0ea16dbf64f3fbc6849b38472bc19e7189329d2d5f32dc3eb17082d5ec7",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.et.langpack.xpi",
+    "sha512": "f0603b4a15d9133462452e1fe53246aa995f8c2d790faeaa066d639500d2fdc7ab9ac7ce7861c9c8808143685671d760bb08e226045ec42d66a39e6e068493ea",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.gn.langpack.xpi",
-    "sha512": "45cdc36b4c4b1f3ca3527711fc165ccad5dfdb6a72350f5d001328df1a86d3a7d6656c0d69824da5eaf72dfa052fe84b36a1702192524a81659280ab05a5b5b7",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.an.langpack.xpi",
+    "sha512": "60a5c13ffc7d115ab5c34d251acb1c2241f23832b97d55725620f892ea7337ea0d04acf0f27575a8dd6598cf35106beb2b331ec8535be027fa96de8a809aef1c",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.it.langpack.xpi",
-    "sha512": "1f8de67809f2ba67406b2ff01791ab4ece60389cf12f67fa117d490b8e9e052865a61b9fc5164c7c48bf36c60e81f25d844d5a1f8264a82c5d7d5fb84b93c5bf",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.nl.langpack.xpi",
+    "sha512": "0cdfec65697ee89b92543fef32060a35c92ce2891db9c66082e91de1f9862731fdf808b3a6beb5e673cad6b99c082709825cf924470eb4c4f311ac260d715ebf",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.kk.langpack.xpi",
-    "sha512": "149095638e8550602661e75410939735b37559834abdfe52d1542d3090fcdbf35c12f355a53b3596f113f5b12f4fd6b726439a9231b72762f41b080401d8d564",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.de.langpack.xpi",
+    "sha512": "5fa56fd035cc2119c12eb005bbf8224ee46eea7de2b421cd34a59000e6324b52757b7144d7a2f1a0275cef3f9b513509e4af8b038561b8fd90fccd6ee4aaf22b",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.meh.langpack.xpi",
-    "sha512": "3b4b310486837e70522e8dc198696ba30a1f4566da00d29922a8b98f9138228e74d5f992c6604cb7332460b244cc25a0622dad42cf1c18153dc8c31b8cc18c8c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.da.langpack.xpi",
+    "sha512": "2f3929073827a254d1fc4782b5674bbe992bc90c998b36e01130cddcfe93ee807a34c4e7774bc2ef996e81ac9619c1b85bab1dbcfb8f9688123e9f8eb1c0e459",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.he.langpack.xpi",
-    "sha512": "6c04570e8e4da8d5c2a4f1090a88f1752dd4aec7fe4b8d3ad9e98722a60e7152c7b9b9be126cc2b7abbcc7f27eb6c2da35ed2894d8c06369ba10f32187d00f07",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.id.langpack.xpi",
+    "sha512": "1acb6777ce9e6843ba7c35e1170d780878b2c22585320282eaadd0866fc6530116ae9b4a21c863cdecbd68c37919e603b1ff74d481ccfab2a929825fee213079",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ro.langpack.xpi",
-    "sha512": "e73865ee533695eae52988eebe657a4ddc3584c59e46ac8be634c6b1640aee29c53e715a6137748bb1aee019b0c5ea84649e30036f262f3b355a865bbccb08b0",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.lo.langpack.xpi",
+    "sha512": "a19f16ceeaaef4515afc2535bfca7284fa47837c99a1a7326cf5772a9b4b700d745211374196c10821e5bbe4915ab801f006d3a83cdb041d3b304546d62e50c0",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.son.langpack.xpi",
-    "sha512": "89858a6f0585470084b3f7a13720c723bde93ca9f1b70678ca0cabc0d28fadb6d74242b29383875c2536b28af5f0d1f254bce2ce82274e2790e19bbe82d0d669",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.hi-IN.langpack.xpi",
+    "sha512": "50ab6bece368d837bea6ea165b777e31d50be3110133d915a1e25c3d20e364164215537f8f9fc65c23f657de723c43bf6a221bf8040a031d8cd4e091b26eadc4",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.cy.langpack.xpi",
-    "sha512": "7770c0ccfbb6fe4a87debc139a196ea46d401e6ee3d70ee2ea21122a7effa8eaecd8662470fe537066b6abf5a1fe13977ac2271b13a44a9c90943f67e2993559",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sq.langpack.xpi",
+    "sha512": "1665dee7a2f4a40eeca7e7cd31b7f5046126e8336bfc51545dcc05faba9e0a71ab8728ba548699db3cfcd95321dde853329166c3d1e064c19843ffbc336ae6ef",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.brx.langpack.xpi",
-    "sha512": "c4fff4a170713f1a6596db0338f76415f0a5fc2cf669d8cdb8d92e26de3177a099cca5cd33490fd720b34e2411d072d4d440d009679e06717f9b73c677336430",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.szl.langpack.xpi",
+    "sha512": "bd8e574fde5f396577d107e4941a78ed8fcfc6fd116aa184b7429f26923abd20402336e2f594a7deb14f7b6b277452f919cd7fba539175a57ebe3bea2d651107",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.ko.langpack.xpi",
-    "sha512": "82e17df14d7e84fd3463507004a816b83557fa2cba0747a26e0092479e0648f533948b4a3a30dcf48d8b6094a29591d000be0ecc1799f72edaf146d8760b9787",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ur.langpack.xpi",
+    "sha512": "6b227a1088d3b0897869983bb31a2fb6892fb5de1ec3db328bb9afabac67d198f3fcef3666a4b5068fae01a9f8c6355ca22650a05dd973c054474f5c63124959",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.af.langpack.xpi",
-    "sha512": "5db6049eaf6e568323e9c0acdd4f2360a5501eaae25b666f353fdd295e1ac0e5e04efe2596e6aca37e12e5109eddb4424501ac925ffb8bdbe787ab48e51a0994",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.gu-IN.langpack.xpi",
+    "sha512": "78dbbc1926ad94a87af48f9e85cb4f888e0f6847e89797b61db68772eaadca023fec1a3a3f2bb1c07c879320a31f5843ec14d3ec1f91aa0782a3c172968d840f",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.vi.langpack.xpi",
-    "sha512": "3503e2e87a6222f72c6bddf550c9028859bd79fa0b22f274df62c103fef7770c148d77c1e50bb7b89d9ce46ac64894035e8be329dee04a994a73b3190d83ef1c",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.en-CA.langpack.xpi",
+    "sha512": "daa5ea56ae1beea397221ecb3120c1140f92067cdfa6864e2bbd01013aca1b52460bffdae5e5ba7365d1f0da8475258873bf2b56eb296e3a3e27bafb0ff0adae",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.be.langpack.xpi",
-    "sha512": "0652e4553614706f1244cf9c865ab48e02826d7760020a6fd181cf6ac4be9d51fa6152858fefb8d511a3ddb1f6d0bebf1e3a4ca64d08e1e85d626c94bfef7b6a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.ckb.langpack.xpi",
+    "sha512": "3abc94035305f778c67916d0521055cc6e9d2f9c7664e119a0879c84c43caf55725734f40e2f75d4f4ed224188b332ac44dbd84ca5f6abf92b896b5a558a3ade",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.dsb.langpack.xpi",
-    "sha512": "c35bea521a06c9e39ca7246786a7e506048fe91bc3b464a08ec0605d57e61b8d5ae9613e1ca464d8c7c1ec5d37ede313108043a94eb07fc20bc4bbfc652b0b1b",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.nn-NO.langpack.xpi",
+    "sha512": "11f072f37884a411fb879dc35560e823542d7a9ea02b0ccaeb971f715b601ec647589d4559a76726c58f26d80ddbe089c7938cea04036b0e5f3a64fec868ef35",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.pl.langpack.xpi",
-    "sha512": "333c1245d325a504c4da04aee076b75273ba4f546d88e0b1d7f4fc0296833c5a4c7f67f9b638bc5b0fb436ce88822475369b80303499cd4f8d10c70abde2cceb",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.cak.langpack.xpi",
+    "sha512": "337edb9b3e6c2c7153965cffba8a65d0f8df97949ece7b3d80b62b5575232f1d6efb8c3fa3b17ade5bcc0e7a7329de911972679d9f46a1bd810acdccf6167356",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.sc.langpack.xpi",
-    "sha512": "ea025a90859cf1330d3dbf7e379c0b729662dc7364d21c6c86cdf5011e76d15089fedbaa14d1dd55b8dfa3eeca976e9abcd3dbe624f2a389f7f8dbeb97b8faad",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.bo.langpack.xpi",
+    "sha512": "5e8f96ff50e1b29856af0598dbe91b246bebe361b308ebbeb97a9029b9380140d703fd43df31a4660d1d81f94610c23db318e1f8c6f68c4c479145c129c547bc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.tl.langpack.xpi",
-    "sha512": "156226afdb76a326364636ef91b9cd0a0302516995d2eb9741550c1d16f42c68dd493a41441cdc7754f55736de1dd1b43005e51e16c94534dfe9cb826d6aa992",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.brx.langpack.xpi",
+    "sha512": "6ba717891153270c80d9e55fd9d0b413b03c48cd0155ef06bdaa088e6e81175707e765748da604acbbf4759448693b2da152a3585f397e18e44ea4303ff5efdc",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hye.langpack.xpi",
-    "sha512": "e2700f2fc6ee994df1eaf2f186e17503107b09530d51d1fee69a4425f691f6aaf1c9c01469825933ffaaad563777edc8a7f3759c2af389a5d2cf81023e610bfb",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.sco.langpack.xpi",
+    "sha512": "a4f2e7da7c815af89da85f19cd75bc77a08b9dccb8f083db5c1857ec5366ea4c73516e1bbebc9de2e78ed3805ab7365aeed9e9b45bb49ff7a44f5ba8278bbaad",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.bo.langpack.xpi",
-    "sha512": "b4ab5ea7c0f475666ca47b6e4cc1fb3c364202216e4ead2af43baff7f6e87e0c0fdcfa3f472ab320736bc2ad7bb85998ced4af0ea5882b3de7f41b3424f4cd85",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.gd.langpack.xpi",
+    "sha512": "4d96e3c84f5fca31adf9e4cea6cc26ea4e83622cdce8256c434ab98029293dbac6e54da6fbc9e73f82dc320174abeeb0591e13fce6880912551098c9717c3956",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.hu.langpack.xpi",
-    "sha512": "9c74b43ec185c6162e6a5d8437c04554b72899e010b74750335ef8a5ac80315e1f75d9c6211c8c98171d5608d3c7cd2edea7a5d39a408f06cce868c4e849a670",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.he.langpack.xpi",
+    "sha512": "68f719788eea2d35658870ba6a51762959f08065c045f35a87392703c858a595167cbf6f66a7c5c818fedb310a0bbda2559a751eba18551ab9d59cc4753170ce",
     "dest": "langpacks"
   },
   {
     "type": "file",
-    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/01/2024-01-22-15-58-15-mozilla-central-l10n/linux-x86_64/xpi/firefox-124.0a1.uz.langpack.xpi",
-    "sha512": "aa9f72bf703f76f5f065a963817f8fdcb5290d8307353c6b7bd564e7dad400f6733877955a1616ebc32aad5df8165355f52bb409c48a3f53443e81630fe43a9a",
+    "url": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/2024/05/2024-05-13-21-43-35-mozilla-central-l10n/linux-x86_64/xpi/firefox-128.0a1.xh.langpack.xpi",
+    "sha512": "42396cdcead55274f930b859ebfd59f8c82229e932759eb95648597189335aff3cc4c054347b9f82b4d6bc4274aab0d669a3d8f6348b53760b27f76cd02136fc",
     "dest": "langpacks"
   }
 ]
