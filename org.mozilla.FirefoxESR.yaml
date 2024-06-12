@@ -59,28 +59,24 @@ modules:
   - name: search-provider
     buildsystem: simple
     build-commands:
-      - sed -i -e "s/firefox.desktop/${FLATPAK_ID}.desktop/g" -e "s/org\.mozilla\.Firefox\.SearchProvider/org\.mozilla\.firefox_esr\.SearchProvider/g" -e "s|\/org\/mozilla\/Firefox\/SearchProvider|\/org\/mozilla\/firefox_esr\/SearchProvider|g" org.mozilla.firefox.search-provider.ini
-      - sed -i -e 's/Name=org\.mozilla.firefox\.SearchProvider/Name=org\.mozilla\.FirefoxESR\.SearchProvider/g' -e 's/Exec=\/usr\/bin\/firefox/Exec=\/app\/bin\/firefox-esr/g' org.mozilla.firefox.SearchProvider.service
       - install -Dm644 org.mozilla.firefox.search-provider.ini ${FLATPAK_DEST}/share/gnome-shell/search-providers/${FLATPAK_ID}-search-provider.ini
       - install -Dm644 org.mozilla.firefox.SearchProvider.service ${FLATPAK_DEST}/share/dbus-1/services/${FLATPAK_ID}.SearchProvider.service
     sources:
       - type: file
-        url: https://hg.mozilla.org/mozilla-central/raw-file/861d200fe3e761e23bbb6ce556446725fb01cd43/browser/components/shell/search-provider-files/org.mozilla.firefox.search-provider.ini
-        sha256: b6104964478760c2f92d54978364c342746c1cdb4963dbc61d13bb68cccc81e9
+        path: files/org.mozilla.firefox.search-provider.ini
+        sha256: 1035370c8d208139189819ed492557d8a7d9b114ea0a423451cdc328793c7661
       - type: file
-        url: https://hg.mozilla.org/mozilla-central/raw-file/37f95f3281e96129b40618a823b13847ca4d587b/browser/components/shell/search-provider-files/org.mozilla.firefox.SearchProvider.service
-        sha256: 68e2ce9033fc17394ab9daed0d7478022ab88e210453af90c403fab023a79500
+        path: files/org.mozilla.firefox.SearchProvider.service
+        sha256: 051c8fd14aa4b67bb5bbee0dcc003d8f005ee4a80cb636089dde24365d4293f8
 
   - name: desktop-file
     buildsystem: simple
     build-commands:
-      - sed -i -e "s/Exec=firefox/Exec=firefox-esr/g" -e "s/Icon=org.mozilla.firefox/Icon=${FLATPAK_ID}/g"
-        -e "s/Name=Firefox Web Browser/Name=Firefox ESR/g" -e "s/StartupWMClass=firefox/StartupWMClass=org.mozilla.FirefoxESR/g" org.mozilla.firefox.desktop
       - install -Dm644 org.mozilla.firefox.desktop ${FLATPAK_DEST}/share/applications/${FLATPAK_ID}.desktop
     sources:
       - type: file
-        url: https://hg.mozilla.org/mozilla-central/raw-file/37f95f3281e96129b40618a823b13847ca4d587b/taskcluster/docker/firefox-flatpak/org.mozilla.firefox.desktop
-        sha256: 8f75776220dcfc4dbd0fa2b1438f26994a5346ce5f229a75f40b9a3d63afad3a
+        path: files/org.mozilla.firefox.desktop
+        sha256: 579e985db75854f1cfcd4c8db3ec4840067803bfe3633bbbcebc266536c44adc
 
   - name: launch-script
     buildsystem: simple
@@ -100,14 +96,12 @@ modules:
       env:
         VERSION: 115.11.0esr
     build-commands:
-      - sed -i -e "s/Firefox/Firefox ESR/g" org.mozilla.firefox.appdata.xml.in
-      - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" -e "s/org.mozilla.firefox/${FLATPAK_ID}/"
-        -e "s/org.mozilla.firefox.desktop/${FLATPAK_ID}.desktop/g" org.mozilla.firefox.appdata.xml.in
+      - sed -i -e "s/\$VERSION/${VERSION}/" -e "s/\$DATE/$(date '+%F')/" org.mozilla.firefox.appdata.xml.in
       - install -Dm644 org.mozilla.firefox.appdata.xml.in ${FLATPAK_DEST}/share/metainfo/${FLATPAK_ID}.metainfo.xml
     sources:
       - type: file
-        url: https://hg.mozilla.org/mozilla-central/raw-file/37f95f3281e96129b40618a823b13847ca4d587b/taskcluster/docker/firefox-flatpak/org.mozilla.firefox.appdata.xml.in
-        sha256: db39e078014caa6f97be775a2e0d2cf1366a45ca1fd146b210bf1594a99b9970
+        path: files/org.mozilla.firefox.appdata.xml.in
+        sha256: be13210e6e7fa4877254a3af4519c3fb3d53768f07992037e3e30a1b67ad70e5
 
   - name: icons
     buildsystem: simple
@@ -116,9 +110,9 @@ modules:
       - install -Dm644 "Fx-Browser-icon-oneColor-white.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
     sources:
       - type: file
-        path: icons/Fx-Browser-icon-fullColor.svg
+        path: files/Fx-Browser-icon-fullColor.svg
       - type: file
-        path: icons/Fx-Browser-icon-oneColor-white.svg
+        path: files/Fx-Browser-icon-oneColor-white.svg
 
   - name: distribution
     buildsystem: simple
@@ -126,7 +120,7 @@ modules:
       - install -Dm644 distribution.ini ${FLATPAK_DEST}/lib/firefox/distribution/distribution.ini
     sources:
       - type: file
-        url: https://raw.githubusercontent.com/mozilla-partners/flatpak/669af66414d0f8114d4bfd4021801738d02f9cd2/desktop/flatpak/distribution/distribution.ini
+        path: files/distribution.ini
         sha256: 5734f9a472d682326c087e92b71c3970e95712f24b1e4d88722669efdb3430a8
 
   - name: firefox-esr
