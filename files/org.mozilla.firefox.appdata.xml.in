@@ -28,15 +28,15 @@
 
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://gitlab.com/projects261/firefox-dev-flatpak/-/raw/main/files/screenshot01-first-run.pngg</image>
-      <caption>The “Welcome to Firefox Developer Edition” page</caption>
+      <image type="source">https://gitlab.com/projects261/firefox-esr-flatpak/-/raw/main/files/screenshot01-first-run.png</image>
+      <caption>The “Welcome to Firefox” page: “Open up an amazing internet”</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://gitlab.com/projects261/firefox-dev-flatpak/-/raw/main/files/screenshot02-newtab.png</image>
+      <image type="source">https://gitlab.com/projects261/firefox-esr-flatpak/-/raw/main/files/screenshot01-newtab.png</image>
       <caption>The New Tab page</caption>
     </screenshot>
     <screenshot>
-      <image type="source">https://gitlab.com/projects261/firefox-dev-flatpak/-/raw/main/files/screenshot03-wikipedia.png</image>
+      <image type="source">https://gitlab.com/projects261/firefox-esr-flatpak/-/raw/main/files/screenshot01-wikipedia.png</image>
       <caption>A Wikipedia page</caption>
     </screenshot>
   </screenshots>
