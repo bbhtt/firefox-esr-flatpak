@@ -101,7 +101,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.firefox.appdata.xml.in
-        sha256: be13210e6e7fa4877254a3af4519c3fb3d53768f07992037e3e30a1b67ad70e5
+        sha256: 73e1e51445b10b33176dff7591b485705b2fa486dab1462917d653083df14b32
 
   - name: icons
     buildsystem: simple
