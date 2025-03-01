@@ -76,7 +76,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.firefox.desktop
-        sha256: b3a1d5bf6e83cccb6a9be42f3bbe32d71c1cd091b7f43ccf72f7537f196fb0d3
+        sha256: 7eae1523a871c67bed453dc5c2f8d14673743090e2f4b1af19da53f6087b70da
 
   - name: launch-script
     buildsystem: simple
