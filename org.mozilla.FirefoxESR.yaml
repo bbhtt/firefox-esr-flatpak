@@ -76,7 +76,7 @@ modules:
     sources:
       - type: file
         path: files/org.mozilla.firefox.desktop
-        sha256: 579e985db75854f1cfcd4c8db3ec4840067803bfe3633bbbcebc266536c44adc
+        sha256: b3a1d5bf6e83cccb6a9be42f3bbe32d71c1cd091b7f43ccf72f7537f196fb0d3
 
   - name: launch-script
     buildsystem: simple
@@ -106,13 +106,14 @@ modules:
   - name: icons
     buildsystem: simple
     build-commands:
-      - install -Dm644 "Fx-Browser-icon-fullColor.svg" "${FLATPAK_DEST}/share/icons/hicolor/scalable/apps/${FLATPAK_ID}.svg"
-      - install -Dm644 "Fx-Browser-icon-oneColor-white.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
+      - unzip Firefox-Browser-Logo-Assets.zip "Icon (Full Color)/Fx-Browser-icon-fullColor.svg"
+      - unzip Firefox-Browser-Logo-Assets.zip "Icon (One Color)/Fx-Browser-icon-oneColor-white.svg"
+      - install -Dm644 "Icon (Full Color)/Fx-Browser-icon-fullColor.svg" "${FLATPAK_DEST}/share/icons/hicolor/scalable/apps/${FLATPAK_ID}.svg"
+      - install -Dm644 "Icon (One Color)/Fx-Browser-icon-oneColor-white.svg" "${FLATPAK_DEST}/share/icons/hicolor/symbolic/apps/${FLATPAK_ID}-symbolic.svg"
     sources:
       - type: file
-        path: files/Fx-Browser-icon-fullColor.svg
-      - type: file
-        path: files/Fx-Browser-icon-oneColor-white.svg
+        url: https://mozilla.design/files/2019/10/Firefox-Browser-Logo-Assets.zip
+        sha256: 82663d2125ddf19c48847f612a3d0b1a8b67359997966b966c49f2710e75b901
 
   - name: distribution
     buildsystem: simple
@@ -121,7 +122,7 @@ modules:
     sources:
       - type: file
         path: files/distribution.ini
-        sha256: 5734f9a472d682326c087e92b71c3970e95712f24b1e4d88722669efdb3430a8
+        sha256: 9b9bb1739006b4a8ee0ca8331812489c32517cd947ee915e0ecaffef03dc4544
 
   - name: firefox-esr
     buildsystem: simple
