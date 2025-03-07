@@ -1,6 +1,7 @@
 {
     "org.mozilla.FirefoxESR": [
         "appstream-screenshots-not-mirrored-in-ostree",
-        "appstream-external-screenshot-url"
+        "appstream-external-screenshot-url",
+        "finish-args-contains-both-x11-and-wayland"
     ]
 }
